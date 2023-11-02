@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MerautaDaniel/RockPapperScissors)
-- Live Site URL: [Add live site URL here](https://merautadaniel.github.io/RockPapperScissors/)
+- Solution URL: [https://github.com/MerautaDaniel/RockPapperScissors]
+- Live Site URL: [https://merautadaniel.github.io/RockPapperScissors/]
 
 ## My process
 
